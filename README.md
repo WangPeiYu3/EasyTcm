@@ -10,7 +10,7 @@ Follow these steps to install and set up EasyTcm:
 
 ### **📌 Step 1: Download PHP**
 🔗 **Official website**: [Download PHP](https://old.xp.cn/download.html)  
-Download and install the PHP runtime environment.
+Download and install the PHP runtime environment（Try to install it on D drive, otherwise you have to change the path in the code of `main().py` in EasyTcm folder）.
 
 ### **📌 Step 2: Create a MySQL Database**
 1. Manually create a **`web8`** database.  
