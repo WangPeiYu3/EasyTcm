@@ -19,10 +19,10 @@ Download and install the PHP runtime environment（Try to install it on D drive,
 ### **📌 Step 3: Start PHP**
 📌 **Use** `WNMP` **to start the PHP service**.
 
-### **📌 Step 4: Run `watchfile.py`**
+### **📌 Step 4: Run `app.py`**
 Navigate to the `EasyTcm` directory and run:
 ```bash
-python watchfile.py
+python app.py
 Ensure all required Python dependencies are installed.
 ```
 ### **📌 Step 5:  Access the Web Interface**
